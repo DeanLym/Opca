@@ -1,0 +1,7 @@
+bk/
+data_file/
+binary/
+lib_old/
+mehr_binary/
+nlopt_test/
+temp.cpp
